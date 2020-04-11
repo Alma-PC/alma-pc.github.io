@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Technology, National University Autonomous of Mexico, 2012
+* M.S. in Electrical Engineering, National Institute for Astrphysics, Optics and Electronics, 2016
+* Ph.D in Electrical and Computer Engineering, Univeristy of California, Davis, 2021 (expected)
 
 Work experience
 ======
