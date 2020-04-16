@@ -1,7 +1,7 @@
 ---
 title: "Rigorous coupled-wave analysis of absorption enhancement in vertically illuminated silicon photodiodes with photon-trapping hole arrays"
 collection: publications
-permalink: /publication/2019-09-01-RCWA-analysis-SiPD
+permalink: /publication/2019-09-01-rcwa-analysis-sipd
 date: 2019-09-01
 venue: 'Nanophotonics'
 paperurl: 'http://cesarbartolo.github.io/files/rcwa'

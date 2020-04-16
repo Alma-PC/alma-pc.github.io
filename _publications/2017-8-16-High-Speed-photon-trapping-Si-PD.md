@@ -1,7 +1,7 @@
 ---
 title: "High speed surface illuminated Si photodiode using microstructured holes for absorption enhancements at 900–1000 nm wavelength"
 collection: publications
-permalink: /publication/2017-8-16-High-Speed-photon-trapping-Si-PD
+permalink: /publication/2017-8-16-high-speed-photon-trapping-si-pd
 date: 2017-8-16
 venue: 'ACS Photonics'
 paperurl: 'http://cesarbartolo.github.io/files/sipd_acs.pdf'

@@ -1,7 +1,7 @@
 ---
 title: "Surface-illuminated photon-trapping high-speed Ge-on-Si photodiodes with improved efficiency up to 1700??nm"
 collection: publications
-permalink: /publication/2018-07-01-Ge-on-Silicon-PD
+permalink: /publication/2018-07-01-ge-on-silicon-pd
 date: 2018-07-01
 venue: 'Photonics Research'
 paperurl: 'http://cesarbartolo.github.io/files/geonsi.pdf'

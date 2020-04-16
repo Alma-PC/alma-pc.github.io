@@ -1,7 +1,7 @@
 ---
 title: "A new paradigm in high-speed and high-efficiency silicon photodiodes for communication—Part II: device and VLSI integration challenges for low-dimensional structures"
 collection: publications
-permalink: /publication/2017-12-18-New-paradigm-silicon-photodiodes
+permalink: /publication/2017-12-18-new-paradigm-silicon-photodiodes
 date: 2017-12-18
 venue: 'IEEE Transactions on Electron Devices'
 paperurl: 'http://cesarbartolo.github.io/files/new_paradigm'
