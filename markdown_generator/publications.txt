@@ -1,0 +1,2 @@
+pub_date	title	 venue	excerpt	citation	site_url	 paper_url
+10/21/2018	Surface-illuminated photon-trapping high-speed Ge-on-Si photodiodes with improved efficiency up to 1700??nm	Photonics Research		"H. Cansizoglu et al., ""Surface-illuminated photon-trapping high-speed Ge-on-Si photodiodes with improved efficiency up to 1700??nm,"" Photonics Research, vol. 6, no. 7, p. 734, 2018."	https://www.osapublishing.org/prj/abstract.cfm?uri=prj-6-7-734	
