@@ -2,6 +2,7 @@
 title: "High-Speed High-Efficiency Photon-Trapping Broadband Silicon PIN Photodiodes for Short-Reach Optical Interconnects in Data Centers"
 collection: publications
 permalink: /publication/2019-08-27-photon-trapping-pd-short-reach-data-center
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-08-27
 venue: 'Journal of Lightwave Technology'
 paperurl: 'http://cesarbartolo.github.io/files/ligthwave_technology'

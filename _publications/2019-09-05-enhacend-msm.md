@@ -2,6 +2,7 @@
 title: "Dramatically Enhanced Efficiency in Ultra-Fast Silicon MSM Photodiodes Via Light Trapping Structures"
 collection: publications
 permalink: /publication/2019-09-05-enhacend-msm
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-09-05
 venue: 'IEEE Photonics Technology Letters'
 paperurl: 'http://cesarbartolo.github.io/files/dramatically_enhanced'
