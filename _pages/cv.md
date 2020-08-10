@@ -73,13 +73,13 @@ Teaching
   
 Awards
 ======
-* Keller Pathway Fellowship - Graduate School of Management, UC Davis (2020-2021)
+* Keller Pathway Fellowship - School of Management, UC Davis (2020-2021)
 * Outstanding Leadership Award – EEC UC Davis (2020)
 * Outstanding Leadership Award – EEC UC Davis (2019)
-* Jena-Davis Alliance of Excellence in Biophotonics Fellowship- UC Davis (2019)
-* Research Travel Award, EEC Department-UC Davis
-* Research Travel Award, IEEE Photonics Society
-* Graduate Student Fellowship, UC Mexus-CONACYT 2016-2021
+* Jena-Davis Alliance of Excellence in Biophotonics Fellowship - UC Davis (2019)
+* Research Travel Award, EEC Department - UC Davis(2019)
+* Research Travel Award, IEEE Photonics Society (2018)
+* Graduate Student Fellowship, UC Mexus - CONACYT 2016-2021
 * Thesis Award, CONCYTEP-Mexico 2015
  
   
