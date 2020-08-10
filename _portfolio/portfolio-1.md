@@ -1,8 +1,9 @@
 ---
-title: "Ultrafast Single Photon Avalanche Photodetectors"
+title: "Ultrafast avalanche photodetectors for imaging and ranging"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/image_project1.png'>"
 collection: portfolio
 ---
 
-Nowadays, new and exciting applications are emerging that requires the detection of extremely low levels of photons in the visible (380-740nm) and near infrared part of the spectrum (740-1600nm), potentially reaching the single photon level. Applications such as Light Imaging and Ranging (LIDAR), Quantum Communications and Bioimaging and Biosensing require to reach the single photon detection limit. 
-My research focus in developing new Silicon and Germanium-on-Silicon based ultrafast photodetectors that can be detect minimum number of photons, through the implementation of photon trapping structures
+Improving the time resolution and sensitivity of Avalanche Photodetectors (APDs-SPADs) is critical for increasing the resolution of Time-of-Flight imaging systems, optical communications, and fluorescence-based biosensors. My research is focused in enhancing the bandwidth, gain and detection efficiency of such detectors by controlling the depth of light absorption, delivering the light in critical regions of the semiconductor. This can be achieved by the implementation of novel photon trapping structures, that has been extensively studied in our lab and implemented in Silicon, Ge-on-Si and III-V photodetectors.
+
+This project involves an interdisciplinary collaboration with the department of Biomedical Engineering at UC Davis for the development of such photodetectors.
