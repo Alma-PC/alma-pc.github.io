@@ -1,6 +1,6 @@
 ---
 title: "Ultrafast avalanche photodetectors for imaging and ranging"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/image_project1.png'>"
+excerpt: "Enhancing gain, bandwidth and efficiency of SPADs by light absortion control with photon trapping structures 1<br/><img src='/images/image_project1.png'>"
 collection: portfolio
 ---
 
