@@ -9,14 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Electrical and Computer Engineering, University of California, Davis, 2021 (expected)
-* M.Sc. in Electrical Engineering, National Institute for Astrophysics, Optics and Electronics, Mexico, 2016
-* B.S. in Technology, National University Autonomous of Mexico, 2012
 
 
-Work experience
+Experience
 ======
 *Graduate Student Researcher, University of California, Davis (2016-present)
   * Development of new ultrafast and sensitive Silicon and Germanium-on-Silicon photodetectors, from PIN devices up to Single Photon Avalanche detectors.
@@ -26,13 +21,19 @@ Work experience
   * Participation in different product cycle process, from optical and electrical simulation, to fabrication and characterization.
   * Currently, leading the development of the Single Photon Avalanche Photodetectors.
   * Collaboration in the fabrication of a photonic integrated biosensor for molecular detection.
-
-
+  
 * Teaching Assistant, University of California Davis (Fall 2017, 2018)
   * Teaching assistant of the undergraduate senior course 'Integrated Circuits Fabrication'.
   * Coordinated +20 students to obtain hands-on experience in the fabrication of MOS transistor.
   * As a TA, I oversee students through the complete fabrication processes required for MOSFET fabrication, from the silicon wafer to the complete fabrication and its electrical characterization.
   
+Education
+======
+* Ph.D. in Electrical and Computer Engineering, University of California, Davis, 2021 (expected)
+* M.Sc. in Electrical Engineering, National Institute for Astrophysics, Optics and Electronics, Mexico, 2016
+* B.S. in Technology, National University Autonomous of Mexico, 2012
+
+
 Skills
 ======
 
