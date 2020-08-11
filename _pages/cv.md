@@ -14,15 +14,25 @@ redirect_from:
 Experience
 ======
 *Graduate Student Researcher, University of California, Davis (2016-present)
+
+  * Research projects:
   * Development of new ultrafast and sensitive Silicon and Germanium-on-Silicon photodetectors, from PIN devices up to Single Photon Avalanche detectors.
-  * Demonstration of new Silicon PDs that can reach 20Gbps with 5x efficiency enhacement at 850nm wavelenght.
-  * Ge-on-Si PDs with 4x efficiency enhancement at 1330nm and 1550nm
-  * Photodiode design for new optical interconnects in Data Centers, LiDAR and Bioimaging.
-  * Participation in different product cycle process, from optical and electrical simulation, to fabrication and characterization.
   * Currently, leading the development of the Single Photon Avalanche Photodetectors.
   * Collaboration in the fabrication of a photonic integrated biosensor for molecular detection.
+ 
+  * Achievements:
+  * Demonstration of new Silicon PDs with potential 20Gbps (NRZ) of operation and with 5x efficiency enhacement at 850nm wavelenght.
+  * Ge-on-Si PDs with 4x efficiency enhancement at 1330nm and 1550nm.
+  * Demonstration of improved Photon Detection Efficiency of silicon SPADs for LIDAR applications and PET imaging.
+  * Gain-Bandwidth improvemment of silicon photodiodes by localized light absoetion in the semiconductors
+
+  * Applications targeted:
+  * Optical interconnects in Data Centers, VR/AR systems, LiDAR, PET imaging and Quantum Communicaitons.
+
   
-* Teaching Assistant, University of California Davis (Fall 2017, 2018)
+  
+*Teaching Assistant, University of California Davis (Fall 2017, 2018)
+
   * Teaching assistant of the undergraduate senior course 'Integrated Circuits Fabrication'.
   * Coordinated +20 students to obtain hands-on experience in the fabrication of MOS transistor.
   * As a TA, I oversee students through the complete fabrication processes required for MOSFET fabrication, from the silicon wafer to the complete fabrication and its electrical characterization.
@@ -38,17 +48,17 @@ Skills
 ======
 
 * Photonic device and systems design
-  * FDTD Lumerical Simulations
-  * Electrical simulations: Silvaco, Comsol
+  * FDTD, RCWA and FDE optical modeling: Lumerical, Comsol
+  * Electrical simulations: Silvaco, Comsol, Device(Lumerical)
   * Compact model development with Cadence
   * Photonic integrated circuit design with AIM Photonics PDK
 * Photodetectors characterization
   * Electrical characterization: bandwidth, responsivity and noise
   * Optical characterization: absorption,reflection.
-* Semiconductor fabrication
+* Semiconductor fabrication experience
   *Use of UC Berkeley-Nanolab and UC Davis nanocenter using tools such as plasma etchants, lithography and growing of semiconductors.
 * Statistical analysis
-  * Extensive use of Matlabd and Python libraries, such as Numpy and Scipy, for efficient data analysis.
+  * Extensive use of Matlab and Python libraries, such as Numpy and Scipy, for efficient data analysis.
 
 Publications
 ======
