@@ -1,7 +1,7 @@
 ---
 title: "Photonic Integrated Biosensors"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/image_project3'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Silicon photonics allow the integration of ultra-sensitive biosensors in small, portable chips. I am collaborating the fabrication of photonic integrated molecular biosensor in  a Silicon Nitride platform. The project involves the design of waveguides, splitters, MZI and ring resonators in a device and a system level. Such work is done in collaboration with the department of Chemical Engineering.
