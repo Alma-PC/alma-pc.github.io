@@ -1,6 +1,6 @@
 ---
 title: "Silicon and Ge-on-Silicon PIN photodetectors for optical communications"
-excerpt: "Short description of portfolio item number  1<br/><img src='/images/image_project2.png'>"
+excerpt: "We aim to enable monolithic integration of silicon photodiodes with the high-speed and responsivity with the receiver electronics in order to reduce the cost and improve the performance of short reach optical interconnects in data centers. In addition, we are developing highly sensitive Germanium on Silicon photodiodes. These photodiodes have potential for many applications, such as inter-/intra-datacenters, passive optical networks, metro and long-haul dense wavelength division multiplexing systems, eye-safe lidar systems, and quantum communications.  <br/><img src='/images/image_project2.png'>"
 collection: portfolio
 ---
 
