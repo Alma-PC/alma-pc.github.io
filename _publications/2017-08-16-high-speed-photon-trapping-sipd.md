@@ -1,5 +1,5 @@
 ---
-title: "High speed surface illuminated Si photodiode using microstructured holes for absorption enhancements at 900–1000nm wavelength"
+title: "High speed surface illuminated Si photodiode using microstructured holes for absorption enhancements at 900-1000nm wavelength"
 collection: publications
 permalink: /publication/2017-08-16-high-speed-photon-trapping-si-pd
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
