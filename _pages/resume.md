@@ -27,18 +27,18 @@ Experience
 **Graduate Student Researcher, University of California, Davis (2016-present)**
 
   * Research projects:
-  * Development of new ultrafast and sensitive Silicon and Germanium-on-Silicon photodetectors, from PIN devices up to Single Photon Avalanche detectors.
-  * Currently, leading the development of the Single Photon Avalanche Photodetectors.
-  * Collaboration in the fabrication of a photonic integrated biosensor for molecular detection.
+    * Development of new ultrafast and sensitive Silicon and Germanium-on-Silicon photodetectors, from PIN devices up to Single Photon Avalanche detectors.
+    * Currently, leading the development of the Single Photon Avalanche Photodetectors.
+    * Collaboration in the fabrication of a photonic integrated biosensor for molecular detection.
  
   * Achievements:
-  * Demonstration of new Silicon PDs with potential 20Gbps (NRZ) of operation and with 5x efficiency enhacement at 850nm wavelenght.
-  * Ge-on-Si PDs with 4x efficiency enhancement at 1330nm and 1550nm.
-  * Demonstration of improved Photon Detection Efficiency of silicon SPADs for LIDAR applications and PET imaging.
-  * Gain-Bandwidth improvemment of silicon photodiodes by localized light absoetion in the semiconductors
+    * Demonstration of new Silicon PDs with potential 20Gbps (NRZ) of operation and with 5x efficiency enhacement at 850nm wavelenght.
+    * Ge-on-Si PDs with 4x efficiency enhancement at 1330nm and 1550nm.
+    * Demonstration of improved Photon Detection Efficiency of silicon SPADs for LIDAR applications and PET imaging.
+   * Gain-Bandwidth improvemment of silicon photodiodes by localized light absoetion in the semiconductors
 
   * Applications targeted:
-  * Optical interconnects in Data Centers, VR/AR systems, LiDAR, PET imaging and Quantum Communicaitons.
+   * Optical interconnects in Data Centers, VR/AR systems, LiDAR, PET imaging and Quantum Communicaitons.
 
   
   
