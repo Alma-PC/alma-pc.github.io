@@ -13,7 +13,7 @@ redirect_from:
 
 Experience
 ======
-*Photonics Design Graduate Intern-Intel (2021-2022)
+**Photonics Design Graduate Intern-Intel (2021-2022)**
 
   * Design and simulate active and passive silicon photonics components such as optical modulator, waveguide-based photodiode, polarization beam splitter/rotator, waveguide coupler, 90-deg hybrid, semiconductor optical amplifier, and tunable laser.
   * Perform process, device, optical simulations.
@@ -24,7 +24,7 @@ Experience
 
 
 
-*Graduate Student Researcher, University of California, Davis (2016-present)
+**Graduate Student Researcher, University of California, Davis (2016-present)**
 
   * Research projects:
   * Development of new ultrafast and sensitive Silicon and Germanium-on-Silicon photodetectors, from PIN devices up to Single Photon Avalanche detectors.
@@ -42,7 +42,7 @@ Experience
 
   
   
-*Teaching Assistant, University of California Davis (Fall 2017, 2018)
+**Teaching Assistant, University of California Davis (Fall 2017, 2018)**
 
   * Teaching assistant of the undergraduate senior course 'Integrated Circuits Fabrication'.
   * Coordinated +20 students to obtain hands-on experience in the fabrication of MOS transistor.
