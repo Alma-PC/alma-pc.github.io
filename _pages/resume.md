@@ -35,10 +35,10 @@ Experience
     * Demonstration of new Silicon PDs with potential 20Gbps (NRZ) of operation and with 5x efficiency enhacement at 850nm wavelenght.
     * Ge-on-Si PDs with 4x efficiency enhancement at 1330nm and 1550nm.
     * Demonstration of improved Photon Detection Efficiency of silicon SPADs for LIDAR applications and PET imaging.
-   * Gain-Bandwidth improvemment of silicon photodiodes by localized light absoetion in the semiconductors
+    * Gain-Bandwidth improvemment of silicon photodiodes by localized light absoetion in the semiconductors
 
   * Applications targeted:
-   * Optical interconnects in Data Centers, VR/AR systems, LiDAR, PET imaging and Quantum Communicaitons.
+    * Optical interconnects in Data Centers, VR/AR systems, LiDAR, PET imaging and Quantum Communicaitons.
 
   
   
