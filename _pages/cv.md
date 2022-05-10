@@ -13,6 +13,17 @@ redirect_from:
 
 Experience
 ======
+*Photonics Design Graduate Intern-Intel (2021-2022)
+
+  * Design and simulate active and passive silicon photonics components such as optical modulator, waveguide-based photodiode, polarization beam splitter/rotator, waveguide coupler, 90-deg hybrid, semiconductor optical amplifier, and tunable laser.
+  *  process, device, optical simulations.
+  * Tape out test chip for photonic integrated circuit (PIC) characterization.
+  * Define test plan and characterize high-speed performance of the PIC.
+  * Analyze the wafer-level-test data and die-level test data.
+
+
+
+
 *Graduate Student Researcher, University of California, Davis (2016-present)
 
   * Research projects:
@@ -39,9 +50,9 @@ Experience
   
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, University of California, Davis, 2021 (expected)
-* M.Sc. in Electrical Engineering, National Institute for Astrophysics, Optics and Electronics, Mexico, 2016
-* B.S. in Technology, National University Autonomous of Mexico, 2012
+  * Ph.D. in Electrical and Computer Engineering, University of California, Davis, 2021 (expected)
+  * M.Sc. in Electrical Engineering, National Institute for Astrophysics, Optics and Electronics, Mexico, 2016
+  * B.S. in Technology, National University Autonomous of Mexico, 2012
 
 
 Skills
@@ -84,6 +95,7 @@ Teaching
   
 Awards
 ======
+* ECE-Graduate Leadership Award - UC Davis (2021)
 * Keller Pathway Fellowship - School of Management, UC Davis (2020-2021)
 * Outstanding Leadership and Community Engagement Award – EEC UC Davis (2020)
 * Outstanding Leadership Award – EEC UC Davis (2019)
