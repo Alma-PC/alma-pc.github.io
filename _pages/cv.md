@@ -16,7 +16,7 @@ Experience
 *Photonics Design Graduate Intern-Intel (2021-2022)
 
   * Design and simulate active and passive silicon photonics components such as optical modulator, waveguide-based photodiode, polarization beam splitter/rotator, waveguide coupler, 90-deg hybrid, semiconductor optical amplifier, and tunable laser.
-  *  process, device, optical simulations.
+  * Perform process, device, optical simulations.
   * Tape out test chip for photonic integrated circuit (PIC) characterization.
   * Define test plan and characterize high-speed performance of the PIC.
   * Analyze the wafer-level-test data and die-level test data.
