@@ -24,7 +24,7 @@ Experience
 
 
 
-**Graduate Student Researcher, University of California, Davis (2016-present)**
+**Graduate Student Researcher, University of California, Davis (2016-2022)**
 
   * Research projects:
     * Development of new ultrafast and sensitive Silicon and Germanium-on-Silicon photodetectors, from PIN devices up to Single Photon Avalanche detectors.
@@ -50,7 +50,7 @@ Experience
   
 Education
 ======
-  * Ph.D. in Electrical and Computer Engineering, University of California, Davis, 2021 (expected)
+  * Ph.D. in Electrical and Computer Engineering, University of California, Davis, 2022
   * M.Sc. in Electrical Engineering, National Institute for Astrophysics, Optics and Electronics, Mexico, 2016
   * B.S. in Technology, National University Autonomous of Mexico, 2012
 
@@ -95,6 +95,7 @@ Teaching
   
 Awards
 ======
+* Richard and Joy Dorf Graduate Student Award - ECE UC Davis (2022)
 * ECE-Graduate Leadership Award - UC Davis (2021)
 * Keller Pathway Fellowship - School of Management, UC Davis (2020-2021)
 * Outstanding Leadership and Community Engagement Award – EEC UC Davis (2020)
