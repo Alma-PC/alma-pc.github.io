@@ -17,4 +17,4 @@ My research work focuses on the development of photodetectors, which are the bri
 
 Something that I like about my work in the capabilities to create collaboration with people in different fields such as from Material scientists and Physicists to Computer, Biomedical, and Chemical engineers. In addition to photodetectors, I am developing photonics integrated biosensors using Silicon Nitride and microfluidics.
 
-I am  Ph.D. Candidate in the Department of Electrical and Computer Engineering at UC Davis. Before that, I did my B.Sc. in Technology at UNAM and my M.Sc. in Electrical Engineering at INAOE, both in Mexico.
+I got my  Ph.D. in Electrical and Computer Engineering at UC Davis. Before that, I did my B.Sc. in Technology at UNAM and my M.Sc. in Electrical Engineering at INAOE, both in Mexico.
