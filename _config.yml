@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cesar Bartolo-Perez"
+title                    : "Alma Poceros Coba"
 title_separator          : "-"
-name                     : &name "Cesar Bartolo-Perez"
+name                     : &name "Alma Poceros-Coba"
 description              : &description "personal description"
-url                      : https://cesarbartolo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://almapoceros.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cesarbartolo/cesarbartolo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cesar Bartolo-Perez"
+  name             : "Alma Poceros-Coba"
   avatar           : "cesarbartolo.JPG"
-  bio              : "Ph.D. in Electrical and Computer Engineering (UC Davis)"
+  bio              : "Ph.D. student in Integrative Genetics and Genomics(UC Davis)"
   location         : "Davis,Ca"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
