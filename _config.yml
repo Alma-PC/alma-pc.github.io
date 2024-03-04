@@ -13,7 +13,7 @@ name                     : &name "Alma Poceros-Coba"
 description              : &description "personal description"
 url                      : https://almapoceros.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cesarbartolo/cesarbartolo.github.io"
+repository               : "Desktop/almapoceros.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cesarbartolo"
+  github           : "Alma-PC"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "cesarbartolo"
+  linkedin         : "alma-poceros-coba-73188958"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cesarbartolo"
+  twitter          : # "cesarbartolo"
   vine             :
   weibo            :
   xing             :
