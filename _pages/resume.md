@@ -76,13 +76,12 @@ Awards
   
 Service and leadership
 ======
-* President of the Mexican Graduate Student Association | 2023-202)
-* President of Mexican Student Association | 2023 - Present
-* Mentoring and Advising Coordinator | 2022- 2023
-* Recruitment Officer – Integrative Genetics and Genomics Graduate Group | 2019-2021
-* Graduate Student Initiative Project Award “Robotics Club”- GSA | 2019 
-* Volunteer Teacher | MME Elementary School | Jan 2017 – May 2019 
+* President of the Mexican Graduate Student Association (2023-2024)
+* Mentoring and Advising Coordinator (2022-2023)
+* Recruitment Officer – Integrative Genetics and Genomics Graduate Group  (2019-2021)
+* Graduate Student Initiative Project Award “Robotics Club”- GSA  (2019) 
+* Volunteer Teacher | MME Elementary School (Jan 2017 – May 2019) 
 * Taught Spanish classes to parents and the community as part of a language exchange program.
-* Trainer and co-founder | Solano Park Robotics club | July 2019- Present 
+* Trainer and co-founder of Solano Park Robotics Club (July 2019- Present) 
 * Trained students between six to thirteen years old in robotics and basic programming
  
