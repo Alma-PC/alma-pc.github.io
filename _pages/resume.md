@@ -27,10 +27,7 @@ Department of Biochemistry and Molecular Medicine
   * Achievements:
     * 
 	*
-	*
 
-  * Applications targeted:
-    * .
 
 **Teaching Assistant**
 	* BIS 101 Genes and Genes Expression & BIS 101D ( Winter 2022 & 2024)
@@ -81,16 +78,17 @@ Skills
 * Immunology/Serology testing in humans. Sampling, Testing, and diagnostic.
 * Histology. With experience on mice, rats, and rabbits and tissue.
 
+<!-- a normal html comment -->
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!-- a normal html comment -->
  
-<!-- 
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -108,7 +106,7 @@ Awards
 ======
 * 2024 Winter UC Entrepreneurship Academy, trainee (February 2024)
 * Award Writing Workshop, UC Davis Comprehensive Cancer Center  (Jan – Jun 2022)
-* UC Davis Comprehensive Cancer Center Travel Award | 20222
+* UC Davis Comprehensive Cancer Center Travel Award  (2022)
 * Travel award to the American Association for Cancer Research Annual Meeting (2022)
 * CONACYT - UC MEXUS Doctoral fellowship (2019-2023) 
 * This fellowship is a collaboration between the University of California and CONACYT Mexico. Consejo Nacional de Ciencia y Tecnología de México. 
