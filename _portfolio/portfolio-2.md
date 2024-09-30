@@ -1,5 +1,5 @@
 ---
-title: "Mutational Signatures on Bladder Cancer"
+title: "Generation of yeast strains"
 excerpt: "Focus in elucidating mutational signatures on bladder cancer to better understand the environmental interactions in the carciogenesis on patients from unrepresented communities . 1<br/><img src='/images/image_project1.png'>"
 collection: portfolio
 ---
