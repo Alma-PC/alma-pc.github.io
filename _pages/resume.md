@@ -61,12 +61,12 @@ Ensured compliance with Good Manufacturing Practices (GMP), integrated Quality M
 PUBLICATIONS
 ======
 
-  * Preclinical Studies of Chemotherapies and Targeted Therapies to Address Gastric Cancer Disparities, co-author, Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-3108
-  * Identification of predisposition and progression gastric cancer biomarkers in Latinos, co-author, Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-2274
-  * Elucidating Arsenic-Dependent Carcinogenesis in Humans, First-author - Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-229
-  * Establishing and characterizing patient-derived models from racial/ethnic minority gastric cancer patients to advance cancer precision health equity, co-author, Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-698
-  * CDH1 and CTNNA1 variants with incomplete penetrance in hereditary gastric cancer Chilean families, co-author, Cancer Research AACR. https://doi.org/10.1158/1538-7445.AM2022-5899
-  * A germline CTNNA1 variant in a large Chilean family with hereditary diffuse gastric cancer, co-author, Cancer Research AACR. https://doi.org/10.1158/1538-7445.AM2021-800
+  * [Preclinical Studies of Chemotherapies and Targeted Therapies to Address Gastric Cancer Disparities, co-author, Cancer Research, AACR](https://doi.org/10.1158/1538-7445.AM2022-3108)
+  * [Identification of predisposition and progression gastric cancer biomarkers in Latinos, co-author, Cancer Research, AACR](https://doi.org/10.1158/1538-7445.AM2022-2274)
+  * [Elucidating Arsenic-Dependent Carcinogenesis in Humans, First-author - Cancer Research, AACR](https://doi.org/10.1158/1538-7445.AM2022-229)
+  * [Establishing and characterizing patient-derived models from racial/ethnic minority gastric cancer patients to advance cancer precision health equity, co-author, Cancer Research, AACR](https://doi.org/10.1158/1538-7445.AM2022-698)
+  * [CDH1 and CTNNA1 variants with incomplete penetrance in hereditary gastric cancer Chilean families, co-author, Cancer Research AACR](https://doi.org/10.1158/1538-7445.AM2022-5899)
+  * [A germline CTNNA1 variant in a large Chilean family with hereditary diffuse gastric cancer, co-author, Cancer Research AACR](https://doi.org/10.1158/1538-7445.AM2021-800)
 
 
 <!-- a normal html comment -->
@@ -116,4 +116,4 @@ EXTRACURRICULAR ACTIVITIES
 **Other Volunteer Activities**
 
   * Co-mentor at Robotics club for underrepresented kids. Provide free tools for the early programming stage and secure grants for robotics competitions and materials for kids.  
-  * As a teaching assistant volunteer at the elementary school parent association, I teach Spanish to parents and community members. 
+  * As a teaching assistant volunteer at the elementary school parent association, I teach Spanish to parents and community members.
