@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/image_project3.png'>
+<br/><img src='/images/DSCF9303.jpg'>
 
 
 **Hello World!**
