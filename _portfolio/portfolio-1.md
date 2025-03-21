@@ -1,7 +1,6 @@
 ---
 title: "Mutational Signatures on Bladder Cancer"
-excerpt: "Focus in elucidating mutational signatures on bladder cancer to better understand the environmental interactions in the carciogenesis on patients from unrepresented communities . 1<br/><img src='/images/image_project1.png'>"
+excerpt: "Focus in elucidating mutational signatures on bladder cancer to better understand the environmental interactions in the carciogenesis on patients from unrepresented communities . 1<br/><img src='/images/image-alignment-580x300.jpg'>"
 collection: portfolio
 ---
-
-Improving the time resolution and sensitivity of Avalanche Photodetectors (APDs-SPADs) is critical for increasing the resolution of Time-of-Flight imaging systems, optical communications, and fluorescence-based biosensors. My research is focused in enhancing the bandwidth, gain and detection efficiency of such detectors by controlling the depth of light absorption, delivering the light in critical regions of the semiconductor. This can be achieved by the implementation of novel photon trapping structures, that has been extensively studied in our lab and implemented in Silicon, Ge-on-Si and III-V photodetectors.
+I lead the research project focused on elucidating mutational signatures in cancer to better understand the environmental interactions in the carcinogenesis of bladder cancer. I evaluated the somatic mutational landscape of tumor samples from patients exposed to arsenic in drinking water within Latino populations, leveraging both epidemiological and genomic approaches. My findings revealed similar mutational patterns supported by genomic analysis of the Bladder Cancer TCGA dataset.
