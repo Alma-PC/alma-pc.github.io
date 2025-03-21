@@ -103,14 +103,6 @@ GRANTS & AWARDS
   
 EXTRACURRICULAR ACTIVITIES
 ======
-* President of the Mexican Graduate Student Association (2023-2024)
-* Mentoring and Advising Coordinator (2022-2023)
-* Recruitment Officer – Integrative Genetics and Genomics Graduate Group  (2019-2021)
-* Graduate Student Initiative Project Award “Robotics Club”- GSA  (2019) 
-* Volunteer Teacher at MME Elementary School (Jan 2017 – May 2019) 
-* Taught Spanish classes to parents and the community as part of a language exchange program.
-* Trainer and co-founder of Solano Park Robotics Club (July 2019- Present) 
-* Trained students between six to thirteen years old in robotics and basic programming
  
 **President of the Mexican Graduate Student Association at UCD**
   * Led the association, creating a supportive space for students to engage in academic and cultural activities.
