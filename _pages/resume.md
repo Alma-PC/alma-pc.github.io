@@ -11,7 +11,8 @@ redirect_from:
 
 
 
-Experience
+
+PROFESSIONAL EXPERIENCE
 ======
 
 
@@ -19,14 +20,12 @@ Experience
 Carvajal-Carmona Lab
 Department of Biochemistry and Molecular Medicine
 
-  * Research projects:
-    *Focused in elucidating mutational signatures on bladder cancer to better understand the environmental interactions in the carcinogenesis on patients from unrepresented communities. 
+  * I led a research project focused on elucidating mutational signatures in cancer to better understand the environmental interactions in the carcinogenesis of bladder cancer. I evaluated the somatic mutational landscape of tumor samples from patients exposed to arsenic in drinking water within Latino populations, leveraging both epidemiological and genomic approaches. My findings revealed similar mutational patterns supported by genomic analysis of the Bladder Cancer TCGA dataset.
 
-	*
- 
-  * Achievements:
-    * 
-	*
+**Molecular Biology Researcher**
+*Heyer Lab, University of California Davis | Davis, CA, US | Jan 2019 - Jul 2019*
+  * Contributed to multiple cloning assays in yeast to investigate homologous recombination proteins, particularly the roles of Rad54 and Radh54 in forming the displacement loop, ultimately to further understand DNA repair mechanisms. Utilized techniques such as molecular cloning, novel high-throughput methods for DNA repair efficiency, and genetic testing. Active participation in lab meetings and seminars to engage with collaborative research.
+
 
 
 **Teaching Assistant**
@@ -55,28 +54,19 @@ Department of Biochemistry and Molecular Medicine
   
 Education
 ======
-  * Ph.D. Candidate, Integrative Genetics and Genomics, University of California Davis (2019 - present)
+  * Ph.D. Candidate, Integrative Genetics and Genomics, University of California Davis (2019 - 2025)
   * BSc. Chemistry, Biology, & Pharmacology, Autonomous University of Puebla, Mexico (2007- 2012)  
 
 
 
-Skills
+TECHNICAL SKILLS
 ======
 
-* Molecular Biology, Genome Editing and Genomic Analysis 
-* Design and characterization of genome editing models.
-* Computational Genomic analysis, NGS, Germline and Somatic Analysis 
-* 2D and 3D cell culture
-* Experience in PCR, Electrophoresis, Western blot
-* Identification and preservation of microorganisms
-* DNA/RNA extraction and Next Gen library preparation 
-* Clinical and biological sampling and testing 
-* Human biological sampling. Biological humans’ samples such as blood, urine.
-* DNA and RNA extraction
-* Microbiology and parasitology Analysis
-* Hematology analysis in humans. Sampling, Testing, and diagnostic.
-* Immunology/Serology testing in humans. Sampling, Testing, and diagnostic.
-* Histology. With experience on mice, rats, and rabbits and tissue.
+* **DNA Sequencing and Gene Analysis:** NGS, RNA-seq, gene expression profiling
+* **Computational & Genomics Analysis:** In-house and commercial pipelines like DRAGEN from Illumina.
+* **Laboratory Techniques:** PCR, electrophoresis, Western blot, CRISPR-Cas9, 2D/3D cell culture, tissue processing (clinical &  preclinical)
+* **Programming:** R, Python, SAS, JMP
+* **Languages:** English and Spanish
 
 <!-- a normal html comment -->
 
