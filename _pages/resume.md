@@ -11,52 +11,18 @@ redirect_from:
 
 
 
-
-PROFESSIONAL EXPERIENCE
-======
-
-
-**Graduate Student Researcher, University of California, Davis (2019-2024)**
-Carvajal-Carmona Lab
-Department of Biochemistry and Molecular Medicine
-
-  * I led a research project focused on elucidating mutational signatures in cancer to better understand the environmental interactions in the carcinogenesis of bladder cancer. I evaluated the somatic mutational landscape of tumor samples from patients exposed to arsenic in drinking water within Latino populations, leveraging both epidemiological and genomic approaches. My findings revealed similar mutational patterns supported by genomic analysis of the Bladder Cancer TCGA dataset.
-
-**Molecular Biology Researcher**
-*Heyer Lab, University of California Davis | Davis, CA, US | Jan 2019 - Jul 2019*
-  * Contributed to multiple cloning assays in yeast to investigate homologous recombination proteins, particularly the roles of Rad54 and Radh54 in forming the displacement loop, ultimately to further understand DNA repair mechanisms. Utilized techniques such as molecular cloning, novel high-throughput methods for DNA repair efficiency, and genetic testing. Active participation in lab meetings and seminars to engage with collaborative research.
-
-
-
-**Teaching Assistant**
-	* BIS 101 Genes and Genes Expression & BIS 101D ( Winter 2022 & 2024)
-
-** Volunteer at Heyer lab-UC Davis  (January 2019 – July 2019) **
-	* Collaborated with research project in the lab, such as the generation of yeast strains for specific traits used for Homologous Recombination. Trained on biochemical and molecular techniques. 
-	* Academic experience: Learned how to navigate the research environment at UC Davis. 
-
-**Student Researcher (Fall 2011- Spring 2013) ** 
- Molecular and Microbial laboratory 
-	* Research focuses on survival responses of P. Putida KT2440 exposed to severe water stress.
-	* Skilled in molecular biology techniques. Bacterial Genetics. Cloning.
-
-** Interim at Pharma Quality Analyst, SON’S Chemistry Lab (Jun 2013- Dec 2013) **
-	* Supervised drug development by-law regulations to ensure reliable and safe of assigned products.
-	* Promoted to auditor on Quality Assurance of manufacturing drugs department. 
-
-**Director of DIF San Salvador El Seco (April 2014-August 2016)**
-	* Developed and coordinated health and social projects for poor and vulnerable communities.
-	* Managed personnel.
-	* Administered Institutional finances. 
-
-
-
   
-Education
+EDUCATION
 ======
-  * Ph.D. Candidate, Integrative Genetics and Genomics, University of California Davis (2019 - 2025)
-  * BSc. Chemistry, Biology, & Pharmacology, Autonomous University of Puebla, Mexico (2007- 2012)  
+**Ph.D. in Genetics and Genomics**
+University of California, Davis.  | Davis, CA, US | Sept 2019 - Present
+Supervisor: Luis G. Carvajal-Carmona, Ph.D.
+Dissertation: Bladder Cancer mutational signatures driven by environmental exposures.
 
+**B.Sc. Chemical Biology & Pharmacology**
+Autonomous University of Puebla (BUAP)  | PUEBLA, MX   | Sept 2007 - Dec 2013
+Supervisor: Jesús Muñoz Rojas, Ph.D.
+Dissertation: Development of a library of mutants of Pseudomonas Putida with an interest in agricultural applications.
 
 
 TECHNICAL SKILLS
@@ -67,6 +33,41 @@ TECHNICAL SKILLS
 * **Laboratory Techniques:** PCR, electrophoresis, Western blot, CRISPR-Cas9, 2D/3D cell culture, tissue processing (clinical &  preclinical)
 * **Programming:** R, Python, SAS, JMP
 * **Languages:** English and Spanish
+
+PROFESSIONAL EXPERIENCE
+======
+
+
+**Graduate Student Researcher**
+*Department of Biochemistry and Molecular Medicine*
+*Carvajal-Carmona Lab, University of California Davis | Davis, CA, US | Sep 2019 - Present*
+
+  * I led a research project focused on elucidating mutational signatures in cancer to better understand the environmental interactions in the carcinogenesis of bladder cancer. I evaluated the somatic mutational landscape of tumor samples from patients exposed to arsenic in drinking water within Latino populations, leveraging both epidemiological and genomic approaches. My findings revealed similar mutational patterns supported by genomic analysis of the Bladder Cancer TCGA dataset.
+
+**Molecular Biology Researcher**
+*Heyer Lab, University of California Davis | Davis, CA, US | Jan 2019 - Jul 2019*
+  * Contributed to multiple cloning assays in yeast to investigate homologous recombination proteins, particularly the roles of Rad54 and Radh54 in forming the displacement loop, ultimately to further understand DNA repair mechanisms. Utilized techniques such as molecular cloning, novel high-throughput methods for DNA repair efficiency, and genetic testing. Active participation in lab meetings and seminars to engage with collaborative research.
+
+**Executive Director**
+*DIF-San Salvador El Seco   |  Puebla,  MEX  |  Apr 2014 - Aug 2016*
+
+Developed and managed public health and community-based projects for vulnerable communities, improving health outcomes. Enhanced skills in management, leadership, and collaboration with multiple stakeholders, including local governments, NGOs, and community leaders. Increase the number of grants awarded to the community organization.
+
+**Pharmaceutical Quality Assurance Analyst**
+*SON’S Chemical Laboratories   |  Puebla, MEX  |   Jun 2013 - Dec 2013*
+
+Ensured compliance with Good Manufacturing Practices (GMP), integrated Quality Management and Regulatory Standards, and oversaw Quality Assurance/Quality Control (QA/QC) processes.
+
+PUBLICATIONS
+======
+
+  * Preclinical Studies of Chemotherapies and Targeted Therapies to Address Gastric Cancer Disparities, co-author, Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-3108
+  * Identification of predisposition and progression gastric cancer biomarkers in Latinos, co-author, Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-2274
+  * Elucidating Arsenic-Dependent Carcinogenesis in Humans, First-author - Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-229
+  * Establishing and characterizing patient-derived models from racial/ethnic minority gastric cancer patients to advance cancer precision health equity, co-author, Cancer Research, AACR. https://doi.org/10.1158/1538-7445.AM2022-698
+  * CDH1 and CTNNA1 variants with incomplete penetrance in hereditary gastric cancer Chilean families, co-author, Cancer Research AACR. https://doi.org/10.1158/1538-7445.AM2022-5899
+  * A germline CTNNA1 variant in a large Chilean family with hereditary diffuse gastric cancer, co-author, Cancer Research AACR. https://doi.org/10.1158/1538-7445.AM2021-800
+
 
 <!-- a normal html comment -->
 
@@ -92,23 +93,15 @@ Teaching
   {% endfor %}</ul>
 -->
   
-Awards
+GRANTS & AWARDS
 ======
 * 2024 Winter UC Entrepreneurship Academy, trainee (February 2024)
-* Award Writing Workshop, UC Davis Comprehensive Cancer Center  (Jan – Jun 2022)
-* UC Davis Comprehensive Cancer Center Travel Award  (2022)
-* Travel award to the American Association for Cancer Research Annual Meeting (2022)
-* CONACYT - UC MEXUS Doctoral fellowship (2019-2023) 
-* This fellowship is a collaboration between the University of California and CONACYT Mexico. Consejo Nacional de Ciencia y Tecnología de México. 
-* CONCYTEP - Dissertation fellowship (2013) 
-* Third place at Regional Science competition, Puebla-Oaxaca  (2012) 
-* Awarded as one of the best research conference presenters in the biology category at the Regional Competition and qualified for the National Youth Competition.
-* PRONABES-fellowship: Academic Distinction (2007-2012) 
-* I was awarded a governmental fellowship for my academic distinction, which I used to support my studies and bachelor’s degree.
-* Youth scientist award (2011,2012 & 2013) 
-* Research financial support for undergrad students working in Molecular Biology and Microbiology areas.
+
+* **Doctoral Fellowship, UC MEXUS-CONACYT.** Awarded a full fellowship by the government of Mexico to selected students to pursue doctoral studies at UC Davis.
+* **UC Davis Comprehensive Cancer Research Center Travel Award 2022**
+* **Writing Grant** Fellowship by UC Davis Comprehensive Cancer Research Center
   
-Service and leadership
+EXTRACURRICULAR ACTIVITIES
 ======
 * President of the Mexican Graduate Student Association (2023-2024)
 * Mentoring and Advising Coordinator (2022-2023)
@@ -119,3 +112,16 @@ Service and leadership
 * Trainer and co-founder of Solano Park Robotics Club (July 2019- Present) 
 * Trained students between six to thirteen years old in robotics and basic programming
  
+**President of the Mexican Graduate Student Association at UCD**
+  * Led the association, creating a supportive space for students to engage in academic and cultural activities.
+  * Represent the interests of the Mexican graduate students with the university administration, fostering better communication and support.
+  * Organized and executed an Annual Academic Symposium with collaborative work with other student organizations at UC Davis, with more than twelve speakers, including keynote speakers from UC Davis, UC Berkeley, and Stanford University.
+
+**Member of Genetics and Genomics Graduate Student Executive Committee at UC Davis**
+  * I have worked as a Recruitment Officer for two years. My duties include organizing the recruitment of new graduate students, coordinating student meetings, and guiding interviews.
+  * As a Mentorship and Wellness Coordinator, I advocated for students and provided them with the guidance and support they needed to navigate graduate school.
+
+**Other Volunteer Activities**
+
+  * Co-mentor at Robotics club for underrepresented kids. Provide free tools for the early programming stage and secure grants for robotics competitions and materials for kids.  
+  * As a teaching assistant volunteer at the elementary school parent association, I teach Spanish to parents and community members. 
