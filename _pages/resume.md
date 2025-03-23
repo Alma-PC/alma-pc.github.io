@@ -51,12 +51,12 @@ PROFESSIONAL EXPERIENCE
 **Executive Director**
 *DIF-San Salvador El Seco   |  Puebla,  MEX  |  Apr 2014 - Aug 2016*
 
-Developed and managed public health and community-based projects for vulnerable communities, improving health outcomes. Enhanced skills in management, leadership, and collaboration with multiple stakeholders, including local governments, NGOs, and community leaders. Increase the number of grants awarded to the community organization.
+  * Developed and managed public health and community-based projects for vulnerable communities, improving health outcomes. Enhanced skills in management, leadership, and collaboration with multiple stakeholders, including local governments, NGOs, and community leaders. Increase the number of grants awarded to the community organization.
 
 **Pharmaceutical Quality Assurance Analyst**
 *SON’S Chemical Laboratories   |  Puebla, MEX  |   Jun 2013 - Dec 2013*
 
-Ensured compliance with Good Manufacturing Practices (GMP), integrated Quality Management and Regulatory Standards, and oversaw Quality Assurance/Quality Control (QA/QC) processes.
+  * Ensured compliance with Good Manufacturing Practices (GMP), integrated Quality Management and Regulatory Standards, and oversaw Quality Assurance/Quality Control (QA/QC) processes.
 
 PUBLICATIONS
 ======
