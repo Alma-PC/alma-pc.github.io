@@ -16,13 +16,14 @@ Education
 ======
 **Ph.D. in Genetics and Genomics**  
 University of California, Davis.  | Davis, CA, US | Sept 2019 - Present  
-Supervisor: Luis G. Carvajal-Carmona, Ph.D.  
-Dissertation: Bladder Cancer mutational signatures driven by environmental exposures.  
+*Dissertation:* Bladder Cancer mutational signatures driven by environmental exposures.  
+*Supervisor:* Luis G. Carvajal-Carmona, Ph.D.  
+
 
 **B.Sc. Chemical Biology & Pharmacology**  
 Autonomous University of Puebla (BUAP)  | PUEBLA, MX   | Sept 2007 - Dec 2013  
-Supervisor: Jesús Muñoz Rojas, Ph.D.  
-Dissertation: Development of a library of mutants of Pseudomonas Putida with an interest in agricultural applications.  
+*Dissertation:* Development of a library of mutants of Pseudomonas Putida with an interest in agricultural applications.  
+*Supervisor:* Jesús Muñoz Rojas, Ph.D.  
 
 
 Technical skills
