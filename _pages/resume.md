@@ -38,23 +38,23 @@ Profesional experience
 ======
 
 
-**Graduate Student Researcher**
-*Department of Biochemistry and Molecular Medicine*
-*Carvajal-Carmona Lab, University of California Davis | Davis, CA, US | Sep 2019 - Present*
+**Graduate Student Researcher**  
+*Department of Biochemistry and Molecular Medicine*  
+*Carvajal-Carmona Lab, University of California Davis | Davis, CA, US | Sep 2019 - Present*  
 
   * I led a research project focused on elucidating mutational signatures in cancer to better understand the environmental interactions in the carcinogenesis of bladder cancer. I evaluated the somatic mutational landscape of tumor samples from patients exposed to arsenic in drinking water within Latino populations, leveraging both epidemiological and genomic approaches. My findings revealed similar mutational patterns supported by genomic analysis of the Bladder Cancer TCGA dataset.
 
-**Molecular Biology Researcher**
-*Heyer Lab, University of California Davis | Davis, CA, US | Jan 2019 - Jul 2019*
+**Molecular Biology Researcher**  
+*Heyer Lab, University of California Davis | Davis, CA, US | Jan 2019 - Jul 2019*  
   * Contributed to multiple cloning assays in yeast to investigate homologous recombination proteins, particularly the roles of Rad54 and Radh54 in forming the displacement loop, ultimately to further understand DNA repair mechanisms. Utilized techniques such as molecular cloning, novel high-throughput methods for DNA repair efficiency, and genetic testing. Active participation in lab meetings and seminars to engage with collaborative research.
 
-**Executive Director**
-*DIF-San Salvador El Seco   |  Puebla,  MEX  |  Apr 2014 - Aug 2016*
+**Executive Director**  
+*DIF-San Salvador El Seco   |  Puebla,  MEX  |  Apr 2014 - Aug 2016*  
 
   * Developed and managed public health and community-based projects for vulnerable communities, improving health outcomes. Enhanced skills in management, leadership, and collaboration with multiple stakeholders, including local governments, NGOs, and community leaders. Increase the number of grants awarded to the community organization.
 
-**Pharmaceutical Quality Assurance Analyst**
-*SON’S Chemical Laboratories   |  Puebla, MEX  |   Jun 2013 - Dec 2013*
+**Pharmaceutical Quality Assurance Analyst**  
+*SON’S Chemical Laboratories   |  Puebla, MEX  |   Jun 2013 - Dec 2013*  
 
   * Ensured compliance with Good Manufacturing Practices (GMP), integrated Quality Management and Regulatory Standards, and oversaw Quality Assurance/Quality Control (QA/QC) processes.
 
@@ -95,7 +95,7 @@ Teaching
   
 Grants & Awards
 ======
-* 2024 Winter UC Entrepreneurship Academy, trainee (February 2024)
+* **2024 Winter UC Entrepreneurship Academy**, trainee (February 2024)
 
 * **Doctoral Fellowship, UC MEXUS-CONACYT.** Awarded a full fellowship by the government of Mexico to selected students to pursue doctoral studies at UC Davis.
 * **UC Davis Comprehensive Cancer Research Center Travel Award 2022**
