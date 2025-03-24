@@ -13,4 +13,6 @@ redirect_from:
 
 **Hello World!**
 
-I am Genetics and Cancer Researcher with expertise in cancer genomics, environmental carcinogenesis, and molecular biology. Experienced in leading projects on mutational signatures, including bladder cancer related to arsenic exposure in Latino populations. Proficient in NGS, RNA-seq, CRISPR-Cas9, and genomic data analysis using tools like DRAGEN, R, and Python. Strong record of publications, mentoring, and driving collaborative research to advance cancer precision health and equity.
+I'm a dedicated Genetics and Cancer Researcher passionate about advancing our understanding of cancer genomics and environmental carcinogenesis. My work has primarily focused on uncovering mutational signatures, including impactful research on bladder cancer linked to arsenic exposure within Latino communities—a cause that hits close to my heart.  
+
+Along the way, I've developed and refined my skills in cutting-edge techniques like NGS, RNA-seq, CRISPR-Cas9, and genomic data analysis, wielding tools like DRAGEN, R, and Python to push the boundaries of science. What truly drives me, though, is the opportunity to mentor the next generation of researchers and foster collaborations that help bridge the gap toward precision health and cancer equity.
