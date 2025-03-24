@@ -12,20 +12,20 @@ redirect_from:
 
 
   
-EDUCATION
+Education
 ======
-**Ph.D. in Genetics and Genomics**
-University of California, Davis.  | Davis, CA, US | Sept 2019 - Present
-Supervisor: Luis G. Carvajal-Carmona, Ph.D.
-Dissertation: Bladder Cancer mutational signatures driven by environmental exposures.
+**Ph.D. in Genetics and Genomics**  
+University of California, Davis.  | Davis, CA, US | Sept 2019 - Present  
+Supervisor: Luis G. Carvajal-Carmona, Ph.D.  
+Dissertation: Bladder Cancer mutational signatures driven by environmental exposures.  
 
-**B.Sc. Chemical Biology & Pharmacology**
-Autonomous University of Puebla (BUAP)  | PUEBLA, MX   | Sept 2007 - Dec 2013
-Supervisor: Jesús Muñoz Rojas, Ph.D.
-Dissertation: Development of a library of mutants of Pseudomonas Putida with an interest in agricultural applications.
+**B.Sc. Chemical Biology & Pharmacology**  
+Autonomous University of Puebla (BUAP)  | PUEBLA, MX   | Sept 2007 - Dec 2013  
+Supervisor: Jesús Muñoz Rojas, Ph.D.  
+Dissertation: Development of a library of mutants of Pseudomonas Putida with an interest in agricultural applications.  
 
 
-TECHNICAL SKILLS
+Technical skills
 ======
 
 * **DNA Sequencing and Gene Analysis:** NGS, RNA-seq, gene expression profiling
@@ -34,7 +34,7 @@ TECHNICAL SKILLS
 * **Programming:** R, Python, SAS, JMP
 * **Languages:** English and Spanish
 
-PROFESSIONAL EXPERIENCE
+Profesional experience
 ======
 
 
@@ -58,7 +58,7 @@ PROFESSIONAL EXPERIENCE
 
   * Ensured compliance with Good Manufacturing Practices (GMP), integrated Quality Management and Regulatory Standards, and oversaw Quality Assurance/Quality Control (QA/QC) processes.
 
-PUBLICATIONS
+Publications
 ======
 
   * [Preclinical Studies of Chemotherapies and Targeted Therapies to Address Gastric Cancer Disparities, co-author, Cancer Research, AACR](https://doi.org/10.1158/1538-7445.AM2022-3108)
@@ -93,7 +93,7 @@ Teaching
   {% endfor %}</ul>
 -->
   
-GRANTS & AWARDS
+Grants & Awards
 ======
 * 2024 Winter UC Entrepreneurship Academy, trainee (February 2024)
 
@@ -101,7 +101,7 @@ GRANTS & AWARDS
 * **UC Davis Comprehensive Cancer Research Center Travel Award 2022**
 * **Writing Grant** Fellowship by UC Davis Comprehensive Cancer Research Center
   
-EXTRACURRICULAR ACTIVITIES
+Extracurricular activities
 ======
  
 **President of the Mexican Graduate Student Association at UCD**
