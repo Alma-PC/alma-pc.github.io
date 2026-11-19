@@ -1,14 +1,36 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<figure>
+  <img src="{{ base_path }}/images/graphical_abstract.jpg" alt="Graphical abstract: patient-derived models for exposure-associated cancer genomics and precision oncology">
+  <figcaption>
+    <strong>From patient tissue to translational insight.</strong> Tumor samples from multiple organs (stomach, lung, bladder, liver) shaped by environmental exposures are used to establish patient-derived organoids and new cell lines. CRISPR-Cas9 editing creates disease models, and NGS (library preparation, RNA-seq) with computational analysis in R and Python identifies exposure-associated mutational signatures, which are then validated in public data (TCGA). Drug-sensitivity testing on organoids and candidate biomarkers support precision oncology and cancer equity. <em>Illustration created with <a href="https://biorender.com">BioRender.com</a>.</em>
+  </figcaption>
+</figure>
+
+<details>
+  <summary>Key literature behind this framework</summary>
+  <ul>
+    <li>Kucab, J. E., et al. (2019). A compendium of mutational signatures of environmental agents. <em>Cell</em>. <a href="https://doi.org/10.1016/j.cell.2019.03.001">doi:10.1016/j.cell.2019.03.001</a></li>
+    <li>Degasperi, A., et al. (2022). Substitution mutational signatures in whole-genome–sequenced cancers in the UK population. <em>Science</em>. <a href="https://doi.org/10.1126/science.abl9283">doi:10.1126/science.abl9283</a></li>
+    <li>Rosendahl Huber, A., et al. (2021). The mutagenic impact of environmental exposures in human cells and cancer: Imprints through time. <em>Frontiers in Genetics</em>. <a href="https://doi.org/10.3389/fgene.2021.760039">doi:10.3389/fgene.2021.760039</a></li>
+    <li>Xu, J., et al. (2024). Gastric cancer patient-derived organoids model for the therapeutic drug screening. <em>BBA – General Subjects</em>. <a href="https://doi.org/10.1016/j.bbagen.2024.130566">doi:10.1016/j.bbagen.2024.130566</a></li>
+    <li>Li, Y., et al. (2020). Patient-derived organoids of non-small cell lung cancer and their application for drug screening. <em>Neoplasma</em>. <a href="https://doi.org/10.4149/neo_2020_190417n346">doi:10.4149/neo_2020_190417n346</a></li>
+    <li>Zhou, Z., et al. (2021). Patient-derived organoids in precision medicine: Drug screening, organoid-on-a-chip and living organoid biobank. <em>Frontiers in Oncology</em>. <a href="https://doi.org/10.3389/fonc.2021.762184">doi:10.3389/fonc.2021.762184</a></li>
+    <li>Fujii, M., Clevers, H., &amp; Sato, T. (2019). Modeling human digestive diseases with CRISPR-Cas9–modified organoids. <em>Gastroenterology</em>. <a href="https://doi.org/10.1053/j.gastro.2018.11.048">doi:10.1053/j.gastro.2018.11.048</a></li>
+    <li>Xu, H., et al. (2022). Tumor organoids: Applications in cancer modeling and potentials in precision medicine. <em>Journal of Hematology &amp; Oncology</em>. <a href="https://doi.org/10.1186/s13045-022-01278-4">doi:10.1186/s13045-022-01278-4</a></li>
+    <li>Rayapati, D., et al. (2025). Environmental exposures and the risk of hepatocellular carcinoma. <em>Hepatology Communications</em>. <a href="https://doi.org/10.1097/hc9.0000000000000627">doi:10.1097/hc9.0000000000000627</a></li>
+  </ul>
+</details>
+
+<h2>Projects</h2>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
