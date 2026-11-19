@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- 
-Talks
-======
-<ul>{% for post in site.talks %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
--->
+Invited seminars and conference presentations.
+
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
