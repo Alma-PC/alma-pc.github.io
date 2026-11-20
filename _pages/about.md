@@ -11,8 +11,6 @@ redirect_from:
 <br/><img src='/images/DSCF9303.jpg'>
 
 
-**Hello World!**
-
 I'm a cancer genomics scientist (PhD in Genetics and Genomics, UC Davis, 2026) passionate about understanding how environmental exposures drive cancer disparities. My work integrates patient-derived models, NGS, and computational genomics: I built CRISPR-Cas9 disease models and new cell lines to study genomic instability, and combined tumor sequencing with epidemiological data to identify arsenic-associated mutational signatures in bladder cancer within Latino communities—a cause that hits close to my heart.
 
 Along the way, I've developed and refined my skills in techniques like NGS, RNA-seq, CRISPR-Cas9, 3D organoid culture and genomic data analysis, using tools like DRAGEN, R, and Python. What truly drives me is the opportunity to mentor the next generation of researchers and foster collaborations that help bridge the gap toward precision health and cancer equity.
